@@ -1,0 +1,4 @@
+ID,CPF,Nome,Endereco,Email
+1,12345678901,"cliente 1","endereço completo",mail@mail.com
+2,12345678902,"cliente 2","endereço completo",mail@mail.com
+3,12345678903,"cliente 3","endereço completo",mail@mail.com

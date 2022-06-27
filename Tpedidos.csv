@@ -1,0 +1,4 @@
+ID,ID_Cliente,ID_Produto,Status
+1,1,1,"Pedido em produção"
+2,2,2,"Pedido em rota de entrega"
+3,3,3,"Pedido efetuado"
